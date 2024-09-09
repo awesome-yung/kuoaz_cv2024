@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pillow
+scikit-learn
+seaborn
+albucore 
+eval-type-backport 
+opencv-python-headless 
+pydantic 
+scikit-image
